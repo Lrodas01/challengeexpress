@@ -15,6 +15,7 @@ app.use ('/home', (req, res)=>{
     })
 });
 
+
 //This is to open contact
 
 app.use ('/contact', (req, res)=>{
