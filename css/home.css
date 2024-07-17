@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #D9CFC1;
+}
+
+#me {
+    position: relative;
+    top: 40px;
+    color: #232C33;
+    text-align: center;
+    font-size: 60px;
+}
+#rectangle1 {
+    position: relative;
+    background-color: #B56576;
+    width: 400px;
+    height: 600px;
+    left: 50px;
+    top: 100px;
+
+}
+
+#about {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    color:#232C33;
+    font-size: 35px;
+}
+
+.standardText {
+    color:#232C33;
+}
+
+#aboutMe {
+    position: relative;
+    top:5px;
+    left: 20px;
+}
